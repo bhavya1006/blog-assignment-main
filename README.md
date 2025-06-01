@@ -47,4 +47,14 @@ Here is the deployed link on Netlify:
 
 ---
 
-Let me know if you'd like to add **project-specific features**, screenshots, or contribution guidelines!
+Let me know if you'd like to add **project-specific features** or contribution guidelines!
+
+UI Samples as follows:
+
+![Home Page](image.png)
+
+![Blog Detail Page](image-1.png)
+
+![Create Blog Page](image-2.png)
+
+![Search Filter](image-3.png)
