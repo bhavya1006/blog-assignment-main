@@ -41,7 +41,9 @@ Make sure to build the app using:
 
 npm run build
 
-Here is the deployed link on Netlify: [Link](https://683c8e32466de339816301eb--blog-assignment-main.netlify.app)
+Here is the deployed link on Netlify:
+``` 
+[Link](https://683c8e32466de339816301eb--blog-assignment-main.netlify.app)
 
 ---
 
