@@ -41,9 +41,7 @@ Make sure to build the app using:
 
 npm run build
 
-
-Then follow the deployment steps for your chosen platform.
-
+Here is the deployed link on Netlify: https://683c8e32466de339816301eb--blog-assignment-main.netlify.app
 
 ---
 
